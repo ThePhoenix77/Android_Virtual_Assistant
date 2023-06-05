@@ -124,11 +124,11 @@ public class MainActivity extends AppCompatActivity {
         } catch (JSONException e) {
             throw new RuntimeException(e);
         }
-        //output !type JSON pour convertir à string :
+        //output type JSON pour convertir à string :
         RequestBody body=RequestBody.create(jsonBody.toString(),MediaType.parse("application/json")) ;
         Request request=new Request.Builder()
                 .url("https://api.openai.com/v1/completions")
-                .header("Authorization","Bearer "+"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")
+                .header("Authorization","Bearer "+"API_KEY")
                 .post(body)
                 .build() ;
 

@@ -7,8 +7,7 @@ Welcome to the Virtual Assistant app, a powerful and versatile tool for Android 
 ## Features
 
 - **Natural Language Processing:** Utilizes the OpenAI API to understand and respond to user inputs in a human-like manner.
-- **Voice Recognition:** Supports voice commands, allowing users to interact with the assistant through speech.
-- **Task Automation:** Performs a variety of tasks based on user requests, such as fetching information, setting reminders, and more.
+- **Task Automation:** Performs a variety of tasks based on user requests, such as fetching information, telling the weather, time and more.
 - **Customizable Responses:** Tailor the virtual assistant's responses to suit your preferences and personalize the interaction.
 
 ## Getting Started
@@ -41,7 +40,7 @@ Welcome to the Virtual Assistant app, a powerful and versatile tool for Android 
 
 1. Launch the Virtual Assistant app on your Android device.
 
-2. Speak or type your commands to interact with the virtual assistant.
+2. Type your commands to interact with the virtual assistant.
 
 3. Enjoy the seamless and intelligent responses generated with the power of OpenAI.
 

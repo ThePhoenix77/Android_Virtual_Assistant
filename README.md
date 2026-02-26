@@ -57,6 +57,3 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 For any questions or inquiries, feel free to contact the project maintainer:
 
 - [Boussaden TAHA](https://www.linkedin.com/in/taha-boussaden/)
-- tahaboussaden7322@gmail.com
-
-Happy virtual assisting!

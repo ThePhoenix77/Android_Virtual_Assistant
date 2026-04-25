@@ -48,12 +48,6 @@ Welcome to the Virtual Assistant app, a powerful and versatile tool for Android 
 
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request.
 
-## Acknowledgments
-
-- Thanks to OpenAI for providing the powerful language model that enhances the capabilities of this virtual assistant.
-
 ## Contact
 
-For any questions or inquiries, feel free to contact the project maintainer:
-
-- [Boussaden TAHA](https://www.linkedin.com/in/taha-boussaden/)
+For any questions or inquiries, feel free to contact the project maintainer [me](https://www.linkedin.com/in/taha-boussaden/).

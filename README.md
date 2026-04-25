@@ -50,4 +50,4 @@ Contributions are welcome! If you have ideas for new features, improvements, or 
 
 ## Contact
 
-For any questions or inquiries, feel free to contact the project maintainer [me](https://www.linkedin.com/in/taha-boussaden/).
+For any questions or inquiries, feel free to contact [me](https://www.linkedin.com/in/taha-boussaden/).
